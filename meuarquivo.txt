@@ -8,4 +8,8 @@ ENtao vamos tentar fazer ao contrario que é mandar algo da internet para o VS c
 NICE JOB SIR
 nova ultima linha muito linha
 nova ultima linha muinova
+<<<<<<< HEAD
 1111111111111111111111111111 
+=======
+00000000000000000000000000000000000000000 
+>>>>>>> b8bcc47a2f39440d00fb96484b178e13b373b64a
